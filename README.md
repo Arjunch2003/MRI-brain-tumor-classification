@@ -6,7 +6,7 @@ Brain tumor diagnosis using MRI scans is time-consuming and requires expert radi
 ```
 Source: Kaggle
 
-Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+[Kaggle Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 ```
 ```
 Classes (4 Categories)

@@ -4,8 +4,7 @@ This project implements a CNN–Transformer hybrid deep learning architecture to
 Brain tumor diagnosis using MRI scans is time-consuming and requires expert radiologists. This project aims to automate brain tumor classification using deep learning to improve efficiency and accuracy.
 ## Dataset
 
-Source: Kaggle
-[Kaggle Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+Source : [Kaggle Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 ```
 Classes (4 Categories)

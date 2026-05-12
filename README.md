@@ -457,6 +457,7 @@ The final model was evaluated on an independent testing dataset containing 1311 
 # Confusion Matrix Analysis
 
 The confusion matrix demonstrates strong classification capability across all tumor categories.
+![Confusion Matrix](confusion_mat.png)
 
 ## Key Observations
 
